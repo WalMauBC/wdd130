@@ -1,29 +1,29 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@600&family=Open+Sans:ital,wght@0,500;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Martian+Mono:wght@400;600&family=Open+Sans:ital,wght@0,500;1,800&display=swap');
 
   
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #327EB5   ;
-  --secondary-color: #E7C24F ;
-  --accent1-color: #A42212;
-  --accent2-color: #AABD8C;
+  --primary-color: #006d77   ;
+  --secondary-color: #83c5be ;
+  --accent1-color: #edf6f9;
+  --accent2-color: #ffddd2;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Open Sans";
-  --paragraph-font: Martian Mono;
+  --heading-font: "AR one sals";
+  --paragraph-font: "Martian Mono";
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #ffffff;  /* headlines on a white background */ 
-  --headline-color-on-color: #7da143; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #144c74; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #AABD8C; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #4e616e  ;
-  --nav-link-color: #327EB5;
-  --nav-background-color: #D4AC0D;
+  --headline-color-on-white: #264580;  /* headlines on a white background */ 
+  --headline-color-on-color: #f4ffa3; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #276a9b; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #1f1919; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #7090a5  ;
+  --nav-link-color: #d8e3eb;
+  --nav-background-color: #4d6772;
   --nav-hover-link-color: white;
   --nav-hover-background-color: #327EB5;
 }
