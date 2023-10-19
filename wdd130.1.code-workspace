@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "wdd130"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wdd130-siteplanrafting",
+		"liveServer.settings.port": 5501
+	}
+}
